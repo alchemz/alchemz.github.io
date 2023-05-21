@@ -8,8 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    # <p>555 your office number</p>
+  address: 
     <p>3251 Hillview Ave building b</p>
     <p>Palo Alto, CA 94304</p>
 
