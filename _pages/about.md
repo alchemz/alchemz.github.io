@@ -9,7 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: 
-    <p>3251 Hillview Ave building b</p>
+    <p> Ford Greenfield Labs, building b</p>
+    <p>3251 Hillview Ave</p>
     <p>Palo Alto, CA 94304</p>
 
 news: true  # includes a list of news items

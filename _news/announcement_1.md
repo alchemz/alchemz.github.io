@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2023-04-26 15:59:00-0400
-inline: true
+# title: A long announcement with details
+date: 2023-04-26 16:11:00-0400
+inline: false
 related_posts: false
 ---
 
-At AI Accelerator Institute 2023 , I am going to give a talk on <a href="https://aifestival.aiacceleratorinstitute.com/talks/deep-learningbased-datacentric-solutions-for-vision-tasks/">Data misconceptions, challenges and solutions 
+At Computer Vision Summit 2023 , I am going to give a keynote on <a href="https://computervisionsummit.com/location/cvsanjose/speaker/lilyxianlingzhang">Deep learning-based data-centric solutions for vision tasks. Link to the talk.
