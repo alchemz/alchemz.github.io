@@ -17,7 +17,6 @@ news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
-service: true 
 ---
 Lily (Xianling) Zhang is a Machine Learning Research Scientist at Ford Autonomy, Palo Alto, CA, located at [Ford Greenfield Labs, Stanford Research Park](https://corporate.ford.com/operations/locations/silicon-valley.html). She is working on Perception and Prediction for autonomous driving tasks.
 
