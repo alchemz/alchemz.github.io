@@ -24,7 +24,7 @@ My research interests include
 - 3D perception and motion prediction
 - Geometric scene understanding based data manipulation(scene relighting) to significantly improve the performance of SOTA CenterTrack algorithm.
 - Dataset bias identification using perceptual similarity based data clustering for large scale dataset meta labeling, similar data searching, balanced data selection for training set curation.
-- Image synthesize using Generative Adversarial Networks(GANs) and 3D game engines that achieves consistent improvement over multple autonomous driving task: parking slot detection, highway lane segmentation, and monodepth estimation.
+- Data augmentation via GANs that achieves consistent improvement over multple AV task: parking slot detection, highway lane segmentation, and monodepth estimation.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
